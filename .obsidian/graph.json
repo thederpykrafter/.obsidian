@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-file:_remotely -file:desktop.ini",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Important  ",
@@ -55,11 +55,11 @@
   "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 1.58020833333333,
   "lineSizeMultiplier": 2.55,
-  "collapse-forces": true,
-  "centerStrength": 0.275467775467775,
-  "repelStrength": 9.41787941787942,
-  "linkStrength": 0.732848232848233,
-  "linkDistance": 148,
-  "scale": 0.5087618855792637,
+  "collapse-forces": false,
+  "centerStrength": 0.458333333333333,
+  "repelStrength": 11.6666666666667,
+  "linkStrength": 0.4375,
+  "linkDistance": 30,
+  "scale": 0.36288736930121546,
   "close": false
 }
