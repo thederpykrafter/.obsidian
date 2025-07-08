@@ -1,0 +1,9 @@
+{
+  "hidden": false,
+  "hiddenList": [
+    ".obsidian",
+    ".obsidian.vimrc",
+    ".gitignore",
+    "README.md"
+  ]
+}

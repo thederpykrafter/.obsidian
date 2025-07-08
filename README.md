@@ -1,5 +1,2 @@
-# tdk.obsidian
-
-<a href="https://wakatime.com/badge/github/thederpykrafter/tdk.obsidian"><img src="https://wakatime.com/badge/github/thederpykrafter/tdk.obsidian.svg" alt="wakatime"></a>
-
-my `.obsidian.vimrc`
+<a href="https://wakatime.com/badge/github/thederpykrafter/Obsidian"><img src="https://wakatime.com/badge/github/thederpykrafter/Obsidian.svg" alt="wakatime"></a>
+# Obsidian
