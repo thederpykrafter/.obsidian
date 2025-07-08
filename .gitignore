@@ -1,2 +1,2 @@
 workspace*
-# plugins/remotely-save/**
+plugins/remotely-save/main.js
